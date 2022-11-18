@@ -5,4 +5,8 @@ Operators:
 Aritthmatic operator
 Comparison operator
 Logical operator
-Assignment operator
+Assignment operator 
+
+Control statements:
+conditional statements
+looping statements
