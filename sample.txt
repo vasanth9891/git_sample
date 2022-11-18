@@ -1,1 +1,9 @@
 This is a sample coding for learning Git.
+
+Git commands I learnt today:
+
+Git init
+
+Git add
+
+Git commit
