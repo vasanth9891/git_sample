@@ -1,9 +1,1 @@
-This is a sample coding for learning Git.
-
-Git commands I learnt today:
-
-Git init
-
-Git add
-
-Git commit
+Go ahead with Git learning at the earliest. By Team Lead.
