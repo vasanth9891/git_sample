@@ -1,1 +1,3 @@
 This is a sample coding for learning Git.
+
+Go ahead with Git learning at the earliest. By Team Lead.
