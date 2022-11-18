@@ -1,1 +1,8 @@
 This is the file 1.
+
+Operators:
+
+Aritthmatic operator
+Comparison operator
+Logical operator
+Assignment operator
